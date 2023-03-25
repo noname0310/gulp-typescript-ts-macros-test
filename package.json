@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/gulp": "^4.0.10",
     "gulp": "^4.0.2",
     "gulp-typescript": "^6.0.0-alpha.1",
     "ts-macros": "^2.1.0",

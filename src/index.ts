@@ -1,3 +1,3 @@
-import { macro$ } from "./other1";
+import { $macro } from "./other1";
 
-console.log(macro$());
+console.log($macro!());

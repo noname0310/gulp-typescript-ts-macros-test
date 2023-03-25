@@ -1,3 +1,3 @@
-function $macro(): string {
+export function $macro(): string {
     return "macro";
 }
